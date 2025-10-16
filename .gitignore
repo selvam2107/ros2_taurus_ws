@@ -1,0 +1,22 @@
+# Ignore build and temporary files
+build/
+dist/
+*.log
+*.tmp
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore ROS 2 build and install directories
+build/
+install/
+log/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
