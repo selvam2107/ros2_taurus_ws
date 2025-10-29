@@ -1,0 +1,4 @@
+source;share/hw_t/local_setup.bash
+source;share/hw_t/local_setup.dsv
+source;share/hw_t/local_setup.sh
+source;share/hw_t/local_setup.zsh

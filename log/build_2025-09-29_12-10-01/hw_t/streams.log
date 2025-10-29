@@ -1,0 +1,43 @@
+[0.010s] Invoking command in '/root/ros2_taurus_ws/build/hw_t': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/ros2_taurus_ws/build/hw_t -- -j12 -l12
+[0.062s] Invoked command in '/root/ros2_taurus_ws/build/hw_t' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/ros2_taurus_ws/build/hw_t -- -j12 -l12
+[0.078s] Invoking command in '/root/ros2_taurus_ws/build/hw_t': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/ros2_taurus_ws/build/hw_t
+[0.090s] -- Install configuration: ""
+[0.090s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/launch
+[0.090s] -- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/launch/taurus_urdf_launch.py
+[0.090s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus chassis and lifting unit.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/MTi_6xx.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/moons_wheel.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/d435.dae
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chassi_new.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Pu_wheel_without_ taper.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel_new.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chasi.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Drive_wheel.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus_Chassis.stl
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf
+[0.091s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i_imu_modules.urdf.xacro
+[0.092s] -- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/wheelcheck.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_materials.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_l515.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_usb_plug.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/tauruswheel.urdf.xacro
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/package_run_dependencies/hw_t
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/parent_prefix_path/hw_t
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.sh
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.dsv
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.sh
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.dsv
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.bash
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.sh
+[0.092s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.zsh
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.dsv
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/package.dsv
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/packages/hw_t
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig.cmake
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig-version.cmake
+[0.093s] -- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/package.xml
+[0.094s] Invoked command in '/root/ros2_taurus_ws/build/hw_t' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/ros2_taurus_ws/build/hw_t

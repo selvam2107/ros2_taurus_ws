@@ -1,0 +1,48 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/ros2_taurus_ws/build/hw_t
+-- Install configuration: ""
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/launch
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/launch/taurus_urdf_launch.py
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus chassis and lifting unit.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/MTi_6xx.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/moons_wheel.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/d435.dae
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chassi_new.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Pu_wheel_without_ taper.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel_new.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chasi.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Drive_wheel.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus_Chassis.stl
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i_imu_modules.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/wheelcheck.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_materials.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_l515.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_usb_plug.urdf.xacro
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/tauruswheel.urdf.xacro
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/package_run_dependencies/hw_t
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/parent_prefix_path/hw_t
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.sh
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.dsv
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.sh
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.dsv
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.bash
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.sh
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.zsh
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.dsv
+-- Installing: /root/ros2_taurus_ws/install/hw_t/share/hw_t/package.dsv
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/packages/hw_t
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig.cmake
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig-version.cmake
+-- Up-to-date: /root/ros2_taurus_ws/install/hw_t/share/hw_t/package.xml

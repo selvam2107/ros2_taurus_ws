@@ -1,0 +1,35 @@
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/launch/taurus_urdf_launch.py
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus chassis and lifting unit.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/MTi_6xx.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/moons_wheel.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/d435.dae
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chassi_new.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Pu_wheel_without_ taper.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/wheel_new.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/chasi.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Drive_wheel.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/stl/Taurus_Chassis.stl
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435i_imu_modules.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/wheelcheck.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_materials.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_d435.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_l515.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/_usb_plug.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/urdf/tauruswheel.urdf.xacro
+/root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/package_run_dependencies/hw_t
+/root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/parent_prefix_path/hw_t
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.sh
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/ament_prefix_path.dsv
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.sh
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/environment/path.dsv
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.bash
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.sh
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.zsh
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/local_setup.dsv
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/package.dsv
+/root/ros2_taurus_ws/install/hw_t/share/ament_index/resource_index/packages/hw_t
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig.cmake
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/cmake/hw_tConfig-version.cmake
+/root/ros2_taurus_ws/install/hw_t/share/hw_t/package.xml
